@@ -80,5 +80,8 @@
     "typescript": "^5.2.2"
   },
   "author": "Alexandre Zajac",
-  "license": "MIT"
+  "license": "MIT",
+  "resolutions": {
+    "@types/react": "^17"
+  }
 }
